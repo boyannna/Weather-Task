@@ -4,6 +4,8 @@ The application should take 4 input parameters – File name (path to the file o
 
 The type of the accepted input file for the weather forecast (filename parameter) is CSV and has the following structure (this is sample data; you can create your own and we mean to test it with more/different data):
 
+![image](https://github.com/boyannna/Weather-Task/assets/72758830/f556e09f-d4d9-485e-b849-dcd9aa69da91)
+
 The criteria for the weather conditions for a rocket launch is as follows:
 
 * Temperature between 2 and 31 degrees Celsius;
